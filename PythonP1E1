@@ -1,4 +1,4 @@
-#Ejercicio de practica video16
+#Ejercicio de practica 
 print("Bienvenido a mi empresa imaginaria")
 Nombre=input("Nombre de empleado: ")
 print("clave 1 - Clave 2 - Clave 3 ")
