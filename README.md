@@ -1,2 +1,2 @@
 # PYTHONP1
-Es un proyecto de python jeje
+Mi progreso en Python
